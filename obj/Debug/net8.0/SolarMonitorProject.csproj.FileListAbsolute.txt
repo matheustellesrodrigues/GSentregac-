@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\SolarMonitorProject\obj\Debug\net8.0\SolarMonitorProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SolarMonitorProject\obj\Debug\net8.0\SolarMonitorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SolarMonitorProject\obj\Debug\net8.0\SolarMonitorProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SolarMonitorProject\obj\Debug\net8.0\SolarMonitorProject.AssemblyInfo.cs
+C:\Users\User\Desktop\SolarMonitorProject\obj\Debug\net8.0\SolarMonitorProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SolarMonitorProject\obj\Debug\net8.0\SolarMonitorProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\SolarMonitorProject\obj\Debug\net8.0\SolarMonitorProject.MvcApplicationPartsAssemblyInfo.cache
