@@ -52,7 +52,7 @@ Rota: POST /train
 Descrição: Treina o modelo de machine learning com os dados armazenados.
 Exemplo de Resposta:
 json
-Copiar código
+
 {
   "message": "Model trained successfully."
 }
@@ -62,7 +62,7 @@ Rota: POST /predict
 Descrição: Retorna previsões com base nos dados fornecidos.
 Exemplo de Entrada:
 json
-Copiar código
+
 {
   "Temperature": 25.5,
   "SolarIntensity": 78.2,
@@ -70,7 +70,7 @@ Copiar código
 }
 Exemplo de Saída:
 json
-Copiar código
+
 {
   "Prediction": "Optimal Usage"
 }
@@ -81,38 +81,32 @@ Ferramentas de desenvolvimento como Visual Studio ou Visual Studio Code (opciona
 Passos
 Clone o repositório:
 
-bash
-Copiar código
+
+
 git clone <URL_DO_REPOSITORIO>
 cd SolarMonitorProject
 Restaure os pacotes NuGet:
 
-bash
-Copiar código
+
 dotnet restore
 Compile o projeto:
 
-bash
-Copiar código
+
 dotnet build
 Execute a aplicação:
 
-bash
-Copiar código
+
 dotnet run
 Acesse a interface Swagger para testar os endpoints:
 
-bash
-Copiar código
+
 https://localhost:<porta>/swagger/index.html
 Como Testar
 Navegue até o diretório de testes:
 
-bash
-Copiar código
+
 cd SolarMonitorProject.Tests
 Execute os testes:
 
-bash
-Copiar código
+
 dotnet test
