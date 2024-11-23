@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Igor\\Downloads\\GSentregac-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Igor\\Downloads\\GSentregac-\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Igor\\Downloads\\GSentregac-\\obj\\Debug\\net8.0\\SolarMonitorProject.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\SolarMonitorProject.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|c:\\users\\igor\\downloads\\gsentregac-\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|c:\\users\\igor\\downloads\\gsentregac-\\controllers\\weathermonitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|solutionrelative:controllers\\weathermonitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|c:\\users\\igor\\downloads\\gsentregac-\\repositories\\weatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|solutionrelative:repositories\\weatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|c:\\users\\igor\\downloads\\gsentregac-\\repositories\\iweatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|solutionrelative:repositories\\iweatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|c:\\users\\igor\\downloads\\gsentregac-\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|c:\\users\\igor\\downloads\\gsentregac-\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|solutionrelative:models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|c:\\users\\igor\\downloads\\gsentregac-\\services\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F4BE00-2CFB-47DB-8519-947FE81A4C11}|SolarMonitorProject.csproj|solutionrelative:services\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:29:54.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolarMonitorProject.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\obj\\Debug\\net8.0\\SolarMonitorProject.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\SolarMonitorProject.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\obj\\Debug\\net8.0\\SolarMonitorProject.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\SolarMonitorProject.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:24:39.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Repositories\\WeatherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\WeatherRepository.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Repositories\\WeatherRepository.cs",
+              "RelativeToolTip": "Repositories\\WeatherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:23:57.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeatherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Repositories\\IWeatherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IWeatherRepository.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Repositories\\IWeatherRepository.cs",
+              "RelativeToolTip": "Repositories\\IWeatherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:23:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:23:51.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Models\\WeatherData.cs",
+              "RelativeToolTip": "Models\\WeatherData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:23:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherMonitorController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Controllers\\WeatherMonitorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherMonitorController.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Controllers\\WeatherMonitorController.cs",
+              "RelativeToolTip": "Controllers\\WeatherMonitorController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:23:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:24:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Services\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationFactory.cs",
+              "ToolTip": "C:\\Users\\Igor\\Downloads\\GSentregac-\\Services\\NotificationFactory.cs",
+              "RelativeToolTip": "Services\\NotificationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:23:59.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

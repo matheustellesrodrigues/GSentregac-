@@ -2242,11 +2242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\SolarMonitorProject\\SolarMonitorProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\GSentregac-\\SolarMonitorProject.csproj",
       "projectName": "SolarMonitorProject",
-      "projectPath": "C:\\Users\\User\\Desktop\\SolarMonitorProject\\SolarMonitorProject.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\GSentregac-\\SolarMonitorProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\SolarMonitorProject\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\GSentregac-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

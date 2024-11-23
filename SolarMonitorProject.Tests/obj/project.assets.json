@@ -3233,11 +3233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\SolarMonitorProject\\SolarMonitorProject.Tests\\SolarMonitorProject.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\GSentregac-\\SolarMonitorProject.Tests\\SolarMonitorProject.Tests.csproj",
       "projectName": "SolarMonitorProject.Tests",
-      "projectPath": "C:\\Users\\User\\Desktop\\SolarMonitorProject\\SolarMonitorProject.Tests\\SolarMonitorProject.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\GSentregac-\\SolarMonitorProject.Tests\\SolarMonitorProject.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\SolarMonitorProject\\SolarMonitorProject.Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\GSentregac-\\SolarMonitorProject.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3255,8 +3255,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\SolarMonitorProject\\SolarMonitorProject.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\SolarMonitorProject\\SolarMonitorProject.csproj"
+            "C:\\Users\\User\\Desktop\\GSentregac-\\SolarMonitorProject.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GSentregac-\\SolarMonitorProject.csproj"
             }
           }
         }

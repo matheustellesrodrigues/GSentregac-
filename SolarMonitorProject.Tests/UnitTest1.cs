@@ -1,4 +1,5 @@
 namespace SolarMonitorProject.Tests;
+using Xunit;
 
 public class UnitTest1
 {
